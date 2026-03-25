@@ -26,7 +26,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](../Reverse.png)
+<img width="906" height="167" alt="Screenshot 2026-03-25 090427" src="https://github.com/user-attachments/assets/8f757f4a-5510-4b47-b43d-dc0dcaba7ee8" />
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -68,7 +68,7 @@ int main()
 ```
 # OUTPUT:
 
-![posorneg.png](../posorneg.png)
+<img width="902" height="167" alt="Screenshot 2026-03-25 090621" src="https://github.com/user-attachments/assets/69bdf594-4cbf-40df-91cd-0491014742bf" />
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -102,7 +102,8 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](minimum.png)
+<img width="908" height="250" alt="Screenshot 2026-03-25 090908" src="https://github.com/user-attachments/assets/296a7246-66db-454a-98f3-2dbf8c3f78e5" />
+
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -141,7 +142,7 @@ int main()
 ```
 ## OUTPUT:
 
-![alt text](../One.png)
+<img width="903" height="165" alt="Screenshot 2026-03-25 091106" src="https://github.com/user-attachments/assets/3e878072-2ad8-4dd9-9266-b5bf5a68b7af" />
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -201,10 +202,14 @@ int main()
 
 ## OUTPUT:
 
-![alt text](../first.png)
-![alt text](../second.png)
-![alt text](../pass.png)
-![alt text](../fail.png)
+<img width="906" height="282" alt="Screenshot 2026-03-25 091306" src="https://github.com/user-attachments/assets/0cffe92c-993a-4486-8071-2d0bf2850c72" />
+
+<img width="910" height="274" alt="Screenshot 2026-03-25 091415" src="https://github.com/user-attachments/assets/c9eb3372-a3b2-4bbf-bba5-f75e9012bfe3" />
+
+<img width="912" height="277" alt="Screenshot 2026-03-25 091606" src="https://github.com/user-attachments/assets/1bfacbf8-5a70-49dd-b03b-9cc7a2e0c6ca" />
+
+<img width="910" height="276" alt="Screenshot 2026-03-25 091713" src="https://github.com/user-attachments/assets/b4af5f5c-9a50-4786-bdc8-ccfdbe6b4ad9" />
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
